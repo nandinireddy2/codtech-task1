@@ -12,12 +12,13 @@ Overview  of  the  Project
 Project: Software Development
 
 Objective :
- Crafting a standout resume is essential for software developers looking to make a lasting impression in a competitive job market. A well-written resume objective statement serves as a powerful introduction, showcasing your skills, aspirations, and what you bring to the table.
+    Crafting a standout resume is essential for software developers looking to make a lasting impression in a competitive job market. A well-written resume objective statement serves as a powerful introduction, 
+     showcasing your skills, aspirations, and what you bring to the table.
  
 Key Activities :
-Planning and Requirement Analysis : Planning is a crucial step in everything, just as in software development  .
-Defining Requirements : This is fulfilled by utilizing SRS (Software Requirement Specification).
+   •	Planning and Requirement Analysis : Planning is a crucial step in everything, just as in software development  .
+   •	Defining Requirements : This is fulfilled by utilizing SRS (Software Requirement Specification).
 
-
+   
 
 
